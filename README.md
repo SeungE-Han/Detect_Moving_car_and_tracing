@@ -1,4 +1,4 @@
-# Moving-car-detect-and-tracing
+# Detect-Moving-car-and-Tracing
 we detect the moving car in the video and tracing.
 
 1. Find the difference in the video and calculate the absolute value
